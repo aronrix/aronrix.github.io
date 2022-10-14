@@ -8,7 +8,7 @@ body {
 </head>
 <h1><span style="background-color:#808000;">mountain chicken</span></h1>
 <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5dwlwvmXt7sdH6plUFXiM1UZSjBONletnSLlqVauTkCEh-C6vcHYypme2E--zTx8e1b8:https://upload.wikimedia.org/wikipedia/commons/d/db/Leptodactylus_fallax_%25281%2529.jpg&usqp=CAU">
-<h2>cock of the rock<h2>
+<h2><span style="background-color:#808000;">cock of the rock</span><h2>
 <img src = "https://animals.sandiegozoo.org/sites/default/files/2019-08/cock-of-the-rock5.jpg" height = 240 width =300>
-<h3>bony eared ass fish</h3>
+<h3><span style="background-color:#808000;">bony eared ass fish</span></h3>
 <img src = "https://fishesofaustralia.net.au/images/image/AcanthonusArmatus2NOAA.jpg" height = 200 width = 280 >
