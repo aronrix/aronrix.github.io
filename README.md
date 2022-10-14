@@ -5,4 +5,4 @@
 <h2>cock of the rock<h2>
 <img src = "https://animals.sandiegozoo.org/sites/default/files/2019-08/cock-of-the-rock5.jpg" height = 240 width =300>
 <h3>bony eared ass fish</h3>
-<img src = "https://fishesofaustralia.net.au/images/image/AcanthonusArmatus2NOAA.jpg">
+<img src = "https://fishesofaustralia.net.au/images/image/AcanthonusArmatus2NOAA.jpg" height = 280 width = 200 >
